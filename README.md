@@ -50,4 +50,4 @@ It does not provide real ride-booking functionality and is not affiliated with U
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-KunalSolanki01/Uber-Clone.git
+   git clone https://github.com/KunalSolanki01/Uber-Clone.git
