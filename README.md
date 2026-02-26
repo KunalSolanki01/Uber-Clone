@@ -34,7 +34,8 @@ This project was created to:
 
 ## 📸 Preview
 
-<img width="1900" height="848" alt="image" src="https://github.com/user-attachments/assets/b45c7c00-34d4-4888-b16d-24b6a1938194" />
+<img width="1901" height="841" alt="image" src="https://github.com/user-attachments/assets/7a4efa01-4517-4653-a637-e4fd41a5b2ac" />
+
 
 
 ---
@@ -50,4 +51,4 @@ It does not provide real ride-booking functionality and is not affiliated with U
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/KunalSolanki01/uber.git
+   git clone https://github.com/KunalSolanki01/Uber-Clone.git
